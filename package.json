@@ -1,0 +1,23 @@
+{
+  "name": "hifarmax",
+  "version": "1.0.0",
+  "description": "Tax Calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_tax_calculation"
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "api",
+    "prototypal",
+    "inheritance",
+    "exercise"
+  ],
+  "author": "Pedro Galvão",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ntl": "^3.0.0"
+  }
+}
