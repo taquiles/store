@@ -4,7 +4,7 @@
   "description": "Tax Calculation",
   "main": "index.js",
   "scripts": {
-    "test": "test_tax_calculation"
+    "start": "node goods.js"
   },
   "keywords": [
     "javascript",
@@ -17,7 +17,5 @@
   "author": "Pedro Galvão",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "ntl": "^3.0.0"
   }
 }
